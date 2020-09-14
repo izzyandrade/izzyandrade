@@ -5,7 +5,7 @@
 ## I am always looking to improve my skills and knowledge, check out my projects!
 
 - 🌱 I’m currently learning React, React Native, Node.JS, PostgreSQL, and Golang
-- 🔭 I’m currently working on UDOK, as a Full Stack Developer
+- 🔭 I’m currently working at UDOK, as a Full Stack Developer
 - 📫 How to reach me: israelcarneiro97@gmail.com
 - 😄 Facts about me: I also love music, games and movies, and I have a beautiful wife and a lovely baby boy!
 

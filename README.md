@@ -2,7 +2,7 @@
 <h2 align="center">And coding is my passion!</h2>
 <h3 align="center">Full Stack Developer - Curitiba, Brazil</h3>
 
-# I am always looking to improve my skills and knowledge, check out my projects!
+## I am always looking to improve my skills and knowledge, check out my projects!
 
 - 🌱 I’m currently learning React, React Native, Node.JS, PostgreSQL, and Golang
 - 🔭 I’m currently working on UDOK, as a Full Stack Developer

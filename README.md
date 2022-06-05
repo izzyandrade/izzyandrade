@@ -12,3 +12,5 @@
 
 <a href="https://www.linkedin.com/in/devisraelandrade/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/devisraelandrade/" height="20" width="20" /></a>
 <a href="https://instagram.com/izzyandrade.dev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="izzyandrade" height="20" width="20" /></a>
+
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="655d1fd8-8d20-4c01-8297-3c625c95be27" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>

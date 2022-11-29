@@ -6,7 +6,7 @@
 
 - 🌱 My current stack is React, React Native, Node.JS, PostgreSQL, Typescript, Express, Docker, Knex & TypeORM
 - 🚀 I am also a Cloud DevOps Engineer, mainly focused in AWS
-- 🔭 I’m currently working at Cheesecake Labs, as a Lead Mobile Engineer
+- 🔭 I’m currently working at Abercrombie & Fitch, as a Senior Software Engineer
 - 📫 How to reach me: israelcarneiro97@gmail.com
 - 😄 Facts about me: I also love music, games and movies, and I have a beautiful wife and a lovely baby boy!
 

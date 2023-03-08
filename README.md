@@ -4,7 +4,7 @@
 
 ## I am always looking to improve my skills and knowledge, check out my projects!
 
-- 🌱 My current stack is React, React Native, Node.JS, PostgreSQL, Typescript, Express, Docker, Knex & TypeORM
+- 🌱 My current stack is React, React Native, Node.JS, PostgreSQL, Typescript, Next.JS
 - 🚀 I am also a Cloud DevOps Engineer, mainly focused in AWS
 - 🔭 I’m currently working at Abercrombie & Fitch, as a Senior Software Engineer
 - 📫 How to reach me: israelcarneiro97@gmail.com

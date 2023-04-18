@@ -4,11 +4,11 @@
 
 ## I am always looking to improve my skills and knowledge, check out my projects!
 
-- 🌱 My current stack is React, React Native, Node.JS, PostgreSQL, Typescript, Next.JS
+- 🌱 My current stack is React, React Native, Node.JS, GraphQL, PostgreSQL, Typescript, Next.JS, Apollo Client
 - 🚀 I am also a Cloud DevOps Engineer, mainly focused in AWS
 - 🔭 I’m currently working at Abercrombie & Fitch, as a Senior Software Engineer
 - 📫 How to reach me: israelcarneiro97@gmail.com
-- 😄 Facts about me: I also love music, games and movies, and I have a beautiful wife and a lovely baby boy!
+- 😄 Facts about me: I am also a game enthusiast and am learning and solo developing games in my free time. I dream in releasing something one day
 
 <a href="https://www.linkedin.com/in/devisraelandrade/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/devisraelandrade/" height="20" width="20" /></a>
 <a href="https://instagram.com/izzyandrade.dev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="izzyandrade" height="20" width="20" /></a>

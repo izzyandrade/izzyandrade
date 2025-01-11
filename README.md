@@ -6,7 +6,7 @@
 
 - 🌱 My current stack is React, React Native, Node.JS, GraphQL, Typescript, Next.JS, Apollo Client, Three.JS, Tailwind CSS, Web3, AWS
 - 🚀 I also have skills in Cloud DevOps, Blockchain, 3D Rendering and Modeling.
-- 🔭 I’m currently working at Onfleet, as a Senior Frontend Engineer
+- 🔭 I’m currently working at Onfleet, as a Senior Fullstack Engineer
 - 📫 How to reach me: israelcarneiro97@gmail.com
 - 😄 I'm a dad of two, husband to a beautiful wife, and love them more than anything - but I also love to spend time alone playing games and coding.
 

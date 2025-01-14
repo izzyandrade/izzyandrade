@@ -8,8 +8,7 @@
 - 🚀 I also have skills in Cloud DevOps, Blockchain, 3D Rendering and Modeling.
 - 🔭 I’m currently working at Onfleet, as a Senior Fullstack Engineer
 - 📫 How to reach me: israelcarneiro97@gmail.com
-- 😄 I'm a dad of two, husband to a beautiful wife, and love them more than anything - but I also love to spend time alone playing games and coding.
-
+  
 <a href="https://www.linkedin.com/in/devisraelandrade/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/devisraelandrade/" height="20" width="20" /></a>
 <a href="https://instagram.com/izzyandrade.dev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="izzyandrade" height="20" width="20" /></a>
 

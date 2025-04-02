@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Israel Andrade</h1>
-<h2 align="center">And coding is my passion!</h2>
 <h3 align="center">Full Stack Developer - Curitiba, Brazil</h3>
 
 ## I am always looking to improve my skills and knowledge, check out my projects!

@@ -12,4 +12,6 @@
 <a href="https://instagram.com/izzyandrade.dev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="izzyandrade" height="20" width="20" /></a>
 
 <!--START_SECTION:badges-->
+<img src="https://github.com/user-attachments/assets/34ebb303-ee71-40a0-b30f-aec1e4445ffc" width="120">
+<img src="https://github.com/user-attachments/assets/9740c88c-48fc-4840-8665-7668dee85b61" width="120">
 <!--END_SECTION:badges-->

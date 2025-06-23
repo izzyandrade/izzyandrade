@@ -11,4 +11,5 @@
 <a href="https://www.linkedin.com/in/devisraelandrade/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/devisraelandrade/" height="20" width="20" /></a>
 <a href="https://instagram.com/izzyandrade.dev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="izzyandrade" height="20" width="20" /></a>
 
-![aws-certified-cloud-practitioner](https://user-images.githubusercontent.com/33944736/172074211-17819702-bf96-4dee-863a-cddf4f3fb1d0.png)
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
